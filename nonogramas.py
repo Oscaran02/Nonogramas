@@ -42,7 +42,7 @@ def importBoard():
 
 # end func
 
-# Funcion para imprimir las columnas
+# Funcion para transponer la matriz
 def transpose(cols_array):
     m = len(cols_array)
     nMax = DimColum(cols_array)
